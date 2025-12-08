@@ -1,3 +1,2 @@
-git rm -r --cached .idea/
-git commit -m "Удалена .idea из репозитория и добавлена в .gitignore"
-git push
+.idea/
+
