@@ -1,5 +1,5 @@
-git rm -r --cached .idea/
-git rm -r --cached .vscode/
-git rm -r --cached .DS_Store/
+.idea/
+.vscode/
+.DS_Store/
 *.sqlite3
 *.db
